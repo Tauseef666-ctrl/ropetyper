@@ -1,5 +1,9 @@
 # Ropetyper
 
+<p align="center">
+  <img src="logo.png" alt="Ropetyper Logo" width="200">
+</p>
+
 Ropetyper is an Android typing game designed to improve your WPM and accuracy through engaging, interactive gameplay. Challenge yourself across multiple difficulty levels and track your progress.
 
 ## Features
